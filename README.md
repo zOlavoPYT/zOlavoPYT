@@ -1,7 +1,6 @@
 # Olavo Silva
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Olavo_Silva-blue?style=flat-square&logo=Linkedin&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folavo-silva-9a7620231%2F)](https://www.linkedin.com/in/olavo-silva-9a7620231/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-as8848641@gmail.com-ea4335?style=flat-square&logo=Gmail&link=mailto:as8848641@gmail.com)](mailto:as8848641@gmail.com)
 
 Full Stack Developer focused on building real-world applications with clean architecture and scalable backends.
